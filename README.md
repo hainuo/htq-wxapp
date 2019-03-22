@@ -7,11 +7,15 @@
 
 项目预览
 
-![example](doc/img/1.jpg)![example](doc/img/2.jpg)
-![example](doc/img/3.jpg)![example](doc/img/4.jpg)
-![example](doc/img/5.jpg)![example](doc/img/6.jpg)
-![example](doc/img/7.jpg)![example](doc/img/8.jpg)
 
+<img src="doc/img/1.jpg" width="200">
+<img src="doc/img/2.jpg" width="200">
+<img src="doc/img/3.jpg" width="200">
+<img src="doc/img/4.jpg" width="200">
+<img src="doc/img/5.jpg" width="200">
+<img src="doc/img/6.jpg" width="200">
+<img src="doc/img/7.jpg" width="200">
+<img src="doc/img/8.jpg" width="200">
 
 
 ## Build Setup
