@@ -1,0 +1,53 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": false,
+		"uglifyFileName": true
+	},
+	"miniprogramRoot": "dist/wx/",
+	"compileType": "miniprogram",
+	"libVersion": "2.6.0",
+	"appid": "wx8ce594b8f0c482f8",
+	"projectname": "coupons-ui",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"isGameTourist": false,
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"id": 0,
+					"name": "文章详情",
+					"pathName": "pages/discovery/article",
+					"query": "scene=2845"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+    "usingComponents": {
+        "van-card": "/static/vant/card/index",
+        "van-tag": "/static/vant/tag/index",
+        "van-swipe-cell": "/static/vant/swipe-cell/index",
+        "van-action-sheet": "/static/vant/action-sheet/index"
+    },
+    "navigationBarTextStyle": "white"
+}

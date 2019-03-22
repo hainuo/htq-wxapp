@@ -1,0 +1,126 @@
+@import "color";
+
+.van-tabs__nav--card .van-tab {
+    color: @theme-color !important;
+    border-right: unset !important;
+}
+
+.van-tabs__nav--card {
+    border: unset !important;
+    margin: 0 !important;
+}
+
+.van-tabs__nav--card .van-tab.van-tab--active {
+    color: #fff !important;
+    background-color: @theme-color !important;
+    border-radius: 5px;
+}
+
+.van-tab--active,
+.van-tabbar-item--active {
+    color: @theme-color !important;
+}
+
+.van-tabs__line {
+    background-color: @theme-color !important;
+}
+
+.van-tabs {
+    .van-tabs__nav,
+    .van-tab {
+        background-color: inherit;
+    }
+
+    .van-hairline--top-bottom::after {
+        border: 0 none;
+    }
+}
+
+.van-card {
+    height: 110px !important;
+    font-size: 14px !important;
+    padding: 5px 10px 5px 120px !important;
+
+    .van-card__thumb {
+        top: 5px;
+        left: 10px;
+        width: 100px;
+        height: 100px;
+        position: absolute;
+    }
+
+    .van-card__content {
+        height: 100px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+}
+
+.van-card__img {
+    width: 100px;
+    height: 100px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.03), rgba(0, 0, 0, 0.4));
+}
+
+.van-hairline--bottom::after {
+    border: none !important;
+}
+
+.van-tabs--line .van-tabs__wrap {
+    height: 32px !important;
+}
+
+.van-tab {
+    line-height: 32px !important;
+}
+
+.van-tabs--line {
+    padding-top: 32px !important;
+    font-size: 16px !important;
+}
+
+.van-tabs__scroll--card {
+    border: none !important;
+}
+
+.van-tabs--card {
+    margin: 0 5px !important;
+}
+
+//.van-dialog {
+//  border-radius: 12px !important;
+//  .van-button--default {
+//    color: #666;
+//  }
+//  .van-dialog__confirm, .van-dialog__confirm:active {
+//    color: @theme-color;
+//  }
+//}
+.van-ellipsis {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.van-multi-ellipsis--l2 {
+    display: -webkit-box;
+
+    overflow: hidden;
+
+    text-overflow: ellipsis;
+
+    word-wrap: break-word;
+
+    white-space: normal !important;
+
+    -webkit-line-clamp: 2;
+
+    -webkit-box-orient: vertical;
+}
+
+.van-card__left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

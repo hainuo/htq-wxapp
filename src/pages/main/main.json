@@ -1,0 +1,15 @@
+{
+    "usingComponents": {
+        "van-cell": "/static/vant/cell/index",
+        "van-cell-group": "/static/vant/cell-group/index",
+        "van-tabbar": "/static/vant/tabbar/index",
+        "van-tabbar-item": "/static/vant/tabbar-item/index",
+        "van-tab": "/static/vant/tab/index",
+        "van-tabs": "/static/vant/tabs/index",
+        "van-transition": "/static/vant/transition/index",
+        "van-card": "/static/vant/card/index",
+        "van-tag": "/static/vant/tag/index",
+        "van-swipe-cell": "/static/vant/swipe-cell/index"
+    },
+    "navigationBarTextStyle": "white"
+}

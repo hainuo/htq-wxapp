@@ -1,0 +1,18 @@
+{
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationStyle": "custom"
+    },
+    "pages": [
+        "pages/main/main",
+        "pages/list/class/main",
+        "pages/list/favor/main",
+        "pages/list/subject/main",
+        "pages/list/shop/main",
+        "pages/detail/main",
+        "pages/search/main",
+        "pages/login/main",
+        "pages/about/main",
+        "pages/discovery/article/main"
+    ]
+}
