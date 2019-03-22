@@ -8,14 +8,7 @@
 项目预览
 
 
-<img src="doc/img/1.jpg" width="200">
-<img src="doc/img/2.jpg" width="200">
-<img src="doc/img/3.jpg" width="200">
-<img src="doc/img/4.jpg" width="200">
-<img src="doc/img/5.jpg" width="200">
-<img src="doc/img/6.jpg" width="200">
-<img src="doc/img/7.jpg" width="200">
-<img src="doc/img/8.jpg" width="200">
+<img src="doc/img/1.jpg" width="200"><img src="doc/img/2.jpg" width="200"><img src="doc/img/3.jpg" width="200"><img src="doc/img/4.jpg" width="200"><img src="doc/img/5.jpg" width="200"><img src="doc/img/6.jpg" width="200"><img src="doc/img/7.jpg" width="200"><img src="doc/img/8.jpg" width="200">
 
 
 ## Build Setup
